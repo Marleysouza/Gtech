@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.titolo{
+    font-size: 40px;
+}
+
+.titolo-2{
+    font-weight: bold;
+}
+
+table{
+    width: 100vw;
+    padding: 10px 20px 10px 20px;
+}
+
+.times .nome{
+    text-align: left;
+    width: 200px;
+}
+
+.times th{
+    padding: 0px 5px 0px 5px;
+}
