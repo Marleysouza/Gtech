@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.course-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.course-item{
+    padding: 10px;
+    font-size: 22px;
+    background-color: white;
+    width: 200px;
+    height: 150px;
+    border-top: 6px solid gray;
+    box-shadow: 2px 4px 5px 0;
+    transition: 0,5s ease-in-out;
+    background-image: ;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    position: relative;
+}
+
+.course-item span{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 10px;
+    position: absolute;
+    top: -15px;
+    right: 10px;
+}
+
